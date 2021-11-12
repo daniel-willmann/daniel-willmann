@@ -1,0 +1,3 @@
+- 👋 Daniel Willmann
+- 🏢 QFOOD GmbH — Freiburg — Germany
+- 🌐 www.qfood.eu
